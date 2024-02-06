@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Kamil Filip</h1>
+<h1>Hi there 👋, I'm Kamil Filip</h1>
 <h3 >A passionate frontend & backend developer from Poland</h3>
 
 - 👨‍💻 All of my projects are available at [https://kamil-filip.pl/](https://kamil-filip.pl/)
